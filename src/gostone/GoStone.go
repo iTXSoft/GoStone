@@ -1,0 +1,3 @@
+package gostone
+
+func 
